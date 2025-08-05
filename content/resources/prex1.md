@@ -15,9 +15,9 @@ title: prex1
 uid: 5e8700f5-ed86-4673-9198-287a2198512c
 video_files:
   archive_url: https://ia600708.us.archive.org/30/items/chalk-radio/S05E01_Anne_White_360p.mp4
-  video_captions_file: /courses/ibrahim-test-managment/E8uZtq_vOYM_captions.webvtt
+  video_captions_file: /courses/ibrahim-test-managment-ibrahim-test-managment-summer-2023/E8uZtq_vOYM_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/E8uZtq_vOYM/default.jpg
-  video_transcript_file: /courses/ibrahim-test-managment/E8uZtq_vOYM_transcript.pdf
+  video_transcript_file: /courses/ibrahim-test-managment-ibrahim-test-managment-summer-2023/E8uZtq_vOYM_transcript.pdf
 video_metadata:
   source: youtube
   video_speakers: ''
